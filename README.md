@@ -29,7 +29,7 @@ Saya Aji Ihsan Bayumi, seorang Freelance Web Developer yang bersemangat dan suka
 
 ## 📁 Portfolio
 
-Cek project saya: [my-portfolio](https://github.com/AjihIsan/my-portfolio)
+Cek project saya: [my-portfolio](https://github.com/AjiIhsan/my-portfolio)
 
 ---
 
